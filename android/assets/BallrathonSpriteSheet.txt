@@ -1,0 +1,215 @@
+BallrathonSpriteSheet.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrowLabel
+  rotate: false
+  xy: 482, 160
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 0, 686
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 576, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+boost
+  rotate: false
+  xy: 994, 160
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+circleAttacker
+  rotate: false
+  xy: 512, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+curve1
+  rotate: false
+  xy: 160, 160
+  size: 161, 161
+  orig: 161, 161
+  offset: 0, 0
+  index: -1
+curve2
+  rotate: false
+  xy: 1750, 0
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+curve3
+  rotate: false
+  xy: 0, 160
+  size: 160, 161
+  orig: 160, 161
+  offset: 0, 0
+  index: -1
+curve4
+  rotate: false
+  xy: 321, 160
+  size: 161, 161
+  orig: 161, 161
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 640, 0
+  size: 70, 95
+  orig: 70, 95
+  offset: 0, 0
+  index: -1
+gameOverText
+  rotate: false
+  xy: 600, 416
+  size: 1024, 256
+  orig: 1024, 256
+  offset: 0, 0
+  index: -1
+highestScoreText
+  rotate: false
+  xy: 1494, 0
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+menuButton
+  rotate: false
+  xy: 0, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+musicButton
+  rotate: false
+  xy: 192, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+musicOffButton
+  rotate: false
+  xy: 256, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+newRecordText
+  rotate: false
+  xy: 1238, 0
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+path1
+  rotate: false
+  xy: 1038, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+path2
+  rotate: false
+  xy: 1138, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+path3
+  rotate: false
+  xy: 938, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+path4
+  rotate: false
+  xy: 838, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+pauseButton
+  rotate: false
+  xy: 128, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+playWithGuides
+  rotate: false
+  xy: 738, 160
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+restartButton
+  rotate: false
+  xy: 320, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+resumeButton
+  rotate: false
+  xy: 64, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+scoreText
+  rotate: false
+  xy: 710, 0
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+squareAttacker
+  rotate: false
+  xy: 448, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 1194, 160
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+tapToBoostText
+  rotate: false
+  xy: 1434, 160
+  size: 355, 256
+  orig: 355, 256
+  offset: 0, 0
+  index: -1
+tapToBuildPath
+  rotate: false
+  xy: 0, 416
+  size: 600, 270
+  orig: 600, 270
+  offset: 0, 0
+  index: -1
+triangularAttacker
+  rotate: false
+  xy: 384, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
